@@ -1,0 +1,2 @@
+# ng
+ng start
